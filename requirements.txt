@@ -4,3 +4,4 @@ seaborn
 notebook
 joblib
 numpy
+sklearn
