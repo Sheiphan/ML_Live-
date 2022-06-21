@@ -5,3 +5,6 @@ notebook
 joblib
 numpy
 sklearn
+plotly
+cufflinks
+chart-studio
