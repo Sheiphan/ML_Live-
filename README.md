@@ -25,8 +25,8 @@ git remote -v
 git pull
 git add .
 git commit -m "WRITE SOMETHING"
-git add . && git commit -m "WRITE SOMETHING" && git push origin main
-git push origin main
+git add . && git commit -m "Outlier complete" && git push origin main
+
 
 jupyter notebook
 pip install notebook
